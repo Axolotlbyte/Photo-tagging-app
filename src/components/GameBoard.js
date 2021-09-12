@@ -22,10 +22,8 @@ const GameBoard = (props) => {
     }
 
     const hideDisplay = () => {
-        console.log('working')
         clearTimeout(timer)
         setDisplay(false)
-        console.log(display)
     }
 
     useEffect(() => {

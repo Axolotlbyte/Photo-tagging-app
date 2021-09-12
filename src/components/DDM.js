@@ -10,7 +10,6 @@ const DDM = (props) => {
     useEffect(() => {
         const newArr = characArr.filter(character => character.borderColor === 'green')
         setArr([...newArr])
-        console.log(ddmArr)
     }, [characArr])
 
     if(display && ddmArr.length !== 0){

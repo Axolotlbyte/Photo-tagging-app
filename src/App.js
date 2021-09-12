@@ -36,10 +36,6 @@ function App() {
     e.preventDefault();
     const height = gameBoardRef.current.offsetHeight;
     const width = gameBoardRef.current.offsetWidth;
-     console.log({ 
-        x: numToPerc(width ,e.nativeEvent.offsetX), 
-        y: numToPerc(height ,e.nativeEvent.offsetY)
-    })
 
     return setLocation({
         x: numToPerc(width ,e.nativeEvent.offsetX), 
@@ -56,16 +52,13 @@ function App() {
     const dbRef = ref(getDatabase());
     get(child(dbRef, `/${urlName}`)).then((snapshot) => {
       if (snapshot.exists()) {
-        // console.log(snapshot.val());
         let obj = {...snapshot.val()}
 
         if(location.x <= obj.coordX + 5 && location.x >= obj.coordX - 5 
           && location.y <= obj.coordY + 5 && location.y >= obj.coordY - 5 
         ){
-          console.log('compare: '+obj.name)
           return setFound(obj.name)
         }
-        console.log('not found')
         return setFound(false)
       } else {
         console.log("No data available");
@@ -101,13 +94,11 @@ function App() {
 
   useEffect(() => {
     let check = characArr.reduce((a,b) => { return (a.borderColor === b.borderColor) ? a : false })
-    console.log('check' + check)
-    console.log(characArr)
     if(check.borderColor === 'green'){
       return
     }
     if(check === false){
-      console.log(win)
+      return
     }else{
       setWin(true)
     }
