@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d315d1a.chunk.css",
-    "main.js": "/static/js/main.10dfb71f.chunk.js",
-    "main.js.map": "/static/js/main.10dfb71f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fa9a0134.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fa9a0134.js.map",
-    "static/js/2.46dc4b51.chunk.js": "/static/js/2.46dc4b51.chunk.js",
-    "static/js/2.46dc4b51.chunk.js.map": "/static/js/2.46dc4b51.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3d315d1a.chunk.css.map": "/static/css/main.3d315d1a.chunk.css.map",
-    "static/js/2.46dc4b51.chunk.js.LICENSE.txt": "/static/js/2.46dc4b51.chunk.js.LICENSE.txt",
-    "static/media/Lizard.93d99f96.jpg": "/static/media/Lizard.93d99f96.jpg",
-    "static/media/Marvel-logo.c40c310b.webp": "/static/media/Marvel-logo.c40c310b.webp",
-    "static/media/app.css": "/static/media/MarvelRegular-Dj83.329acb51.ttf",
-    "static/media/Nova.e7db4503.png": "/static/media/Nova.e7db4503.png",
-    "static/media/WheresMarvel.eba40c29.jpg": "/static/media/WheresMarvel.eba40c29.jpg",
-    "static/media/deadpool.8bbd2b26.jpg": "/static/media/deadpool.8bbd2b26.jpg",
-    "static/media/falcon.0a3d2784.jpg": "/static/media/falcon.0a3d2784.jpg",
-    "static/media/iron-man.12b6d43c.jpg": "/static/media/iron-man.12b6d43c.jpg"
+    "main.css": "/Photo-tagging-app/static/css/main.77b34f5f.chunk.css",
+    "main.js": "/Photo-tagging-app/static/js/main.e99dae28.chunk.js",
+    "main.js.map": "/Photo-tagging-app/static/js/main.e99dae28.chunk.js.map",
+    "runtime-main.js": "/Photo-tagging-app/static/js/runtime-main.3d42ad93.js",
+    "runtime-main.js.map": "/Photo-tagging-app/static/js/runtime-main.3d42ad93.js.map",
+    "static/js/2.f94ad64e.chunk.js": "/Photo-tagging-app/static/js/2.f94ad64e.chunk.js",
+    "static/js/2.f94ad64e.chunk.js.map": "/Photo-tagging-app/static/js/2.f94ad64e.chunk.js.map",
+    "index.html": "/Photo-tagging-app/index.html",
+    "static/css/main.77b34f5f.chunk.css.map": "/Photo-tagging-app/static/css/main.77b34f5f.chunk.css.map",
+    "static/js/2.f94ad64e.chunk.js.LICENSE.txt": "/Photo-tagging-app/static/js/2.f94ad64e.chunk.js.LICENSE.txt",
+    "static/media/Lizard.93d99f96.jpg": "/Photo-tagging-app/static/media/Lizard.93d99f96.jpg",
+    "static/media/Marvel-logo.c40c310b.webp": "/Photo-tagging-app/static/media/Marvel-logo.c40c310b.webp",
+    "static/media/app.css": "/Photo-tagging-app/static/media/MarvelRegular-Dj83.329acb51.ttf",
+    "static/media/Nova.e7db4503.png": "/Photo-tagging-app/static/media/Nova.e7db4503.png",
+    "static/media/WheresMarvel.eba40c29.jpg": "/Photo-tagging-app/static/media/WheresMarvel.eba40c29.jpg",
+    "static/media/deadpool.8bbd2b26.jpg": "/Photo-tagging-app/static/media/deadpool.8bbd2b26.jpg",
+    "static/media/falcon.0a3d2784.jpg": "/Photo-tagging-app/static/media/falcon.0a3d2784.jpg",
+    "static/media/iron-man.12b6d43c.jpg": "/Photo-tagging-app/static/media/iron-man.12b6d43c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa9a0134.js",
-    "static/js/2.46dc4b51.chunk.js",
-    "static/css/main.3d315d1a.chunk.css",
-    "static/js/main.10dfb71f.chunk.js"
+    "static/js/runtime-main.3d42ad93.js",
+    "static/js/2.f94ad64e.chunk.js",
+    "static/css/main.77b34f5f.chunk.css",
+    "static/js/main.e99dae28.chunk.js"
   ]
 }
