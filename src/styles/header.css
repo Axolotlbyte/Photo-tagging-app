@@ -1,0 +1,50 @@
+body{
+    margin: 0%;
+    font-family: Marvel;
+}
+
+.ul-list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 2.5vh;
+}
+
+.header{
+    width: 100%;
+    height: 14vh;
+    background-color: black;
+}
+
+.charac-img{
+    width: 8vh;
+    border-radius: 50%;
+    border: 3px solid;
+    height: 8vh;
+
+}.charac-img:active{
+    transform: scale(1.05);
+    transition: transfrom 0.2s;
+}
+
+.list{
+    margin-left: 2vh;
+    margin-top: 2vh;
+    float: left;
+    text-align: center;
+}
+
+.text{
+    color: white;
+}
+
+#logo{
+    float: right;
+    margin-top: 2vh;
+    margin-right: 2vw;
+}
+
+.logo-img{
+    height: 10vh;
+}

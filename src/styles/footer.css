@@ -1,0 +1,36 @@
+.footer-cont{
+    height: 60px;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+
+.github-img{
+    width: 24px;
+    height: 24px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    margin-top: 4px;
+}
+
+.footer-list{
+    margin-top: 10px;
+    align-self: center;
+    float: left;
+    margin-left: 40%;
+}
+
+.footer-text{
+    margin-top: 12px;
+    padding-left: 4px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

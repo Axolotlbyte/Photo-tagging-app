@@ -1,0 +1,15 @@
+.game-board{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: rgb(245, 231, 226);
+    margin: 0%;
+    padding: 0%;
+}.game-board:hover{
+    color: white;
+    cursor: url(../images/cursor_64.png) 30 30, auto;
+}
+
+.game-img{
+    width: 100%;
+}

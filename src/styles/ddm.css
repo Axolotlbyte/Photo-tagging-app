@@ -1,0 +1,33 @@
+.ddm-cont{
+    display: block;
+    position: absolute;
+    height: auto;
+    width: 16vh;
+    background-color: black;
+    padding: 1vh;
+}.ddm-cont:hover{
+    cursor: pointer;
+}
+
+.ul-ddm{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white
+}
+
+.ddm-img{
+    height: 4vh;
+}
+
+.ddm-li{
+    margin-bottom: 0.5vh;
+}.ddm-li:hover{
+    background-color: rgb(68, 68, 68);
+}
+
+.ddm-text{
+    margin-left: 1vh;
+    font-size: 2.5vh;
+}

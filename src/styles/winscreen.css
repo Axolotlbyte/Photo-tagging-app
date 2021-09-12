@@ -1,0 +1,9 @@
+.over-cont{
+    display: flex;
+    height: 86vh;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-content: center;
+    font-size: 6vh;
+}

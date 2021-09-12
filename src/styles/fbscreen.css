@@ -1,0 +1,12 @@
+.fb-cont{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    height: auto;
+    font-family: Marvel;
+    font-size: 4vh;
+    top: 14vh;
+    color: rgb(0, 255, 0);
+    height: 4vh;
+    background-color: rgba(0, 0, 0, 0.618);
+}

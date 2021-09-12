@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Marvel;
+    src: url(./fonts/MarvelRegular-Dj83.ttf);
+}
+
+.overflow-div{
+    width: 100%;
+    height: 86vh;
+    overflow-y: scroll;
+    font-family: Marvel;
+}
